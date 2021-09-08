@@ -33,7 +33,7 @@ namespace azmHttpFunction
             }
             else if (name == "ntkd")
             {
-                responseMessage = "Michael;myang;chenelin;changwew";
+                responseMessage = "Michael;myang;chenelin;changwew;Ausin;yangmich";
             }
             else
             {
