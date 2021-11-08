@@ -29,11 +29,11 @@ namespace azmHttpFunction
 
            if (name == "pekd")
             {
-                responseMessage = "Michael;myang;chenelin;changwew;Austin";
+                responseMessage = "michael;myang;yangmich;changwew;austin;luaus";
             }
             else if (name == "ntkd")
             {
-                responseMessage = "Michael;myang;chenelin;changwew;Ausin;yangmich";
+                responseMessage = "michael;myang;yangmich;changwew;ausin;luaus";
             }
             else
             {
